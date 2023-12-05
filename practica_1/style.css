@@ -1,0 +1,27 @@
+div{
+    color: red;
+}
+
+p{
+    background-color: blue;
+}
+
+ol li{
+    color: yellow;
+}
+
+#contenedor-principal {
+    background-color: blue;
+}
+
+.border{
+    border: 3px solid black;
+}
+
+body div#contenedor-principal h1{
+    color: yellow;
+}
+h1{
+    color: blueviolet;
+}
+
